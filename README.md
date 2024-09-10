@@ -8,7 +8,7 @@
 
 🎶 Fitness, **music**, and **fintech** apps are my jam! If you're looking for someone to collaborate on innovative projects, I'm your person.
 
-🌐 Find me on [Yash-Mutatkar](https://www.linkedin.com/in/yash-mutatkar) and let’s connect!  
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/yash-mutatkar) and let’s connect!  
 
 💬 Fun fact: When I’m not coding, you'll probably find me lifting weights, listening to DHH, or brainstorming the next big app.
 
