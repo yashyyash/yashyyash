@@ -1,4 +1,6 @@
-### 👋 Hey there, I’m Yash!
+# 👋 Hey there, I’m Yash!
+
+---
 
 👨‍💻 **Software Enthusiast** | **Product Management Explorer** | **Fitness Aficionado**  
 
