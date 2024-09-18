@@ -4,7 +4,7 @@
 
 👨‍💻 **Software Enthusiast** | **Product Management Explorer** | **Fitness Aficionado**  
 
-💡 I'm passionate about coding in **C, Java,** and **Python**, constantly seeking ways to solve complex problems through technology.
+💡 I'm passionate about coding in **C, C#,** and **Python**, constantly seeking ways to solve complex problems through technology.
 
 🚀 Currently learning **AWS** and **Terraform**, and always excited to explore new technologies that push the boundaries of what's possible.
 
