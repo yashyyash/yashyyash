@@ -6,7 +6,7 @@
 
 💡 I'm passionate about coding in **C, Java,** and **Python**, constantly seeking ways to solve complex problems through technology.
 
-🚀 Currently learning **AWS** and **Medusa**, and always excited to explore new technologies that push the boundaries of what's possible.
+🚀 Currently learning **AWS** and **Terraform**, and always excited to explore new technologies that push the boundaries of what's possible.
 
 🎶 Fitness, **music**, and **fintech** apps are my jam! If you're looking for someone to collaborate on innovative projects, I'm your person.
 
