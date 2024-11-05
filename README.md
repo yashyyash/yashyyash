@@ -4,7 +4,7 @@
 
 👨‍💻 **Software Developer** | **Fitness Enthusiast**
 
-💡 With a strong foundation in **C, C#,** and **Python**, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
+💡 With a strong foundation in **C, C++,** and **Python**, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
 
 🚀 Currently expanding my expertise in **DevOps** and **cloud technologies**, focusing on tools like **AWS**, **Docker**, **GitHub Actions**, and **Terraform**. I'm always eager to deepen my knowledge in CI/CD, infrastructure as code, and automation to drive efficient and scalable solutions.
 
