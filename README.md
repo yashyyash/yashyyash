@@ -1,18 +1,14 @@
-# 👋 Hey there, I’m Yash Mutatkar!
+👨‍💻 Software Developer | Aspiring Product Manager | Fitness Enthusiast
 
----
+💡 With a strong foundation in C, C#, and Python, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
 
-👨‍💻 **Software Enthusiast** | **Product Management Explorer** | **Fitness Aficionado**  
+🚀 Currently expanding my expertise in DevOps and cloud technologies, focusing on tools like AWS, Docker, GitHub Actions, and Terraform. I'm always eager to deepen my knowledge in CI/CD, infrastructure as code, and automation to drive efficient and scalable solutions.
 
-💡 I'm passionate about coding in **C, C#,** and **Python**, constantly seeking ways to solve complex problems through technology.
+🎶 My interests lie in fitness, music, and fintech applications. I’m enthusiastic about collaborating on projects that bring these interests together, delivering meaningful user experiences and technical excellence.
 
-🚀 Currently learning **AWS** and **Terraform**, and always excited to explore new technologies that push the boundaries of what's possible.
+🌐 Let’s connect on LinkedIn — I’m always open to networking and exchanging ideas.
 
-🎶 Fitness, **music**, and **fintech** apps are my jam! If you're looking for someone to collaborate on innovative projects, I'm your person.
-
-🌐 Find me on [LinkedIn](https://www.linkedin.com/in/yash-mutatkar) and let’s connect!  
-
-💬 Fun fact: When I’m not coding, you'll probably find me lifting weights, listening to DHH, or brainstorming the next big app.
+💬 Fun fact: Outside of coding, you’ll find me lifting weights, exploring new music, or brainstorming the next big app.
 
 ---
 
