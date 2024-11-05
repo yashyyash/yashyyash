@@ -2,7 +2,7 @@
 
 ---
 
-👨‍💻 **Software Developer** | **Aspiring Product Manager** | **Fitness Enthusiast**
+👨‍💻 **Software Developer** | **Fitness Enthusiast**
 
 💡 With a strong foundation in **C, C#,** and **Python**, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
 
