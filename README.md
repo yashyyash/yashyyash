@@ -1,14 +1,23 @@
-👨‍💻 Software Developer | Aspiring Product Manager | Fitness Enthusiast
+# 👋 Hi, I'm Yash Mutatkar
 
-💡 With a strong foundation in C, C#, and Python, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
+---
 
-🚀 Currently expanding my expertise in DevOps and cloud technologies, focusing on tools like AWS, Docker, GitHub Actions, and Terraform. I'm always eager to deepen my knowledge in CI/CD, infrastructure as code, and automation to drive efficient and scalable solutions.
+👨‍💻 **Software Developer** | **Aspiring Product Manager** | **Fitness Enthusiast**
 
-🎶 My interests lie in fitness, music, and fintech applications. I’m enthusiastic about collaborating on projects that bring these interests together, delivering meaningful user experiences and technical excellence.
+💡 With a strong foundation in **C, C#,** and **Python**, I’m passionate about solving complex problems through innovative software solutions. I thrive on designing impactful applications and improving workflows across various domains.
 
-🌐 Let’s connect on LinkedIn — I’m always open to networking and exchanging ideas.
+🚀 Currently expanding my expertise in **DevOps** and **cloud technologies**, focusing on tools like **AWS**, **Docker**, **GitHub Actions**, and **Terraform**. I'm always eager to deepen my knowledge in CI/CD, infrastructure as code, and automation to drive efficient and scalable solutions.
 
-💬 Fun fact: Outside of coding, you’ll find me lifting weights, exploring new music, or brainstorming the next big app.
+🎶 My interests lie in **fitness**, **music**, and **fintech** applications. I’m enthusiastic about collaborating on projects that bring these interests together, delivering meaningful user experiences and technical excellence.
+
+🌐 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yash-mutatkar) — I’m always open to networking and exchanging ideas.
+
+💬 **Fun fact:** Outside of coding, you’ll find me lifting weights, exploring new music, or brainstorming the next big app.
+
+---
+
+⚡️ “Code, lift, repeat.”
+
 
 ---
 
