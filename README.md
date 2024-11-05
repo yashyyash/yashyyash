@@ -75,13 +75,6 @@ _September 2024 – Present_
 
 ---
 
-## ⚡️ Highlights  
-
-**Fun Fact:** When I’m not coding, you’ll find me lifting weights, brainstorming fintech and fitness app ideas, or listening to DHH!
-
----
-
-⚡️ “Code, lift, repeat.”
 
 
 <!---
