@@ -59,7 +59,7 @@ Created a collaborative platform for note-sharing using PHP and MySQL.
 ## 🎓 Certificates & Co-Curricular Activities
 
 - **Technical Head, Students Committee**  
-  Led a mentorship initiative with 60 students, enhancing project scores by 30%  
+  Organized various Tech Sports & Activities  
 
 - **Product Management (6-Week Training, Internshala)**  
 - **Certifications:** Data Structures and Algorithms by Abdul Bari, various Udemy courses  
