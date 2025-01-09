@@ -69,9 +69,13 @@ Created a collaborative platform for note-sharing using PHP and MySQL.
 ## 🌟 Work Experience
 
 ### PearlThoughts – DevOps Engineer  
-_September 2024 – Present_  
-- Spearheaded CI/CD integration on production servers, leveraging EC2, ECS, and ECR for a 27% performance boost  
-- Currently integrating application monitoring via a cloud-based observability platform with distributed tracing and metrics for enhanced system insight  
+_September 2024 – January 2025_  
+- Designed and optimized Docker workflows, enabling seamless EC2-to-ECS migration and achieving a 10% cost reduction.
+- Developed and maintained GitHub Actions pipelines with Jira integration for efficient CI/CD processes. Scaled e-commerce solutions using MedusaJS, implemented Slack notifications, and introduced feature toggles with Unleash across multiple repositories.
+- Integrated Trivy for container vulnerability scanning and configured OIDC for secure identity management.
+- Enhanced observability by writing JavaScript with Winston and OpenTelemetry to send logs and metrics to AWS
+CloudWatch.
+ 
 
 ---
 
