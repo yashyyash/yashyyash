@@ -12,6 +12,8 @@
 
 🌐 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yash-mutatkar) — I’m always open to networking and exchanging ideas.
 
+🔗 Visit my portfolio: [https://yashyyash.github.io/Portfolio/](https://yashyyash.github.io/Portfolio/)
+
 💬 **Fun fact:** Outside of coding, you’ll find me lifting weights, exploring new music, or brainstorming the next big app.
 
 ---
